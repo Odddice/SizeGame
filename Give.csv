@@ -1,0 +1,3 @@
+mainName uses their own height to grow otherName by percentDelta (changeDelta) to otherFinalSize. They simultaneously shrink to mainFinalSize.
+mainName gives their size to add to otherName's height by percentDelta (changeDelta) to otherFinalSize, and dwindling down to mainFinalSize.
+otherName gazes on as mainName seems to shrink before them, unaware that it was them being grown by percentDelta (changeDelta) of mainName's original size, leaving them otherFinalSize tall in front of the now only mainFinalSize tall mainName.
