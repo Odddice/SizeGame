@@ -17,20 +17,39 @@ namespace ShrinkingGame
             InitializeComponent();
         }
 
-        private void rb_Player1_Clicked(object sender, EventArgs e)
+        private void btn_Shrink_Click(object sender, EventArgs e)
         {
-            if (rb_Player2.Checked)
-            {
-                rb_Player2.Checked = false;
-            }
+
         }
 
-        private void rb_Player2_Clicked(object sender, EventArgs e)
+        private void btn_Grow_Click(object sender, EventArgs e)
         {
-            if (rb_Player1.Checked)
-            {
-                rb_Player1.Checked = false;
-            }
+
+        }
+
+        private void btn_Steal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_ShrinkDOT_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_GrowDOT_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_StealDOT_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCheckpoint_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -21,3 +21,6 @@ E:\Programming\ShrinkingGame\ShrinkingGame\obj\Debug\ShrinkingGame.Form1.resourc
 E:\Programming\ShrinkingGame\ShrinkingGame\obj\Debug\ShrinkingGame.Properties.Resources.resources
 E:\Programming\ShrinkingGame\ShrinkingGame\obj\Debug\ShrinkingGame.csproj.GenerateResource.Cache
 E:\Programming\ShrinkingGame\ShrinkingGame\obj\Debug\ShrinkingGame.StartUp.resources
+C:\Users\Odddice\Documents\GitHubVisualStudio\SizeGame\ShrinkingGame\bin\Debug\ShrinkingGame.exe.config
+C:\Users\Odddice\Documents\GitHubVisualStudio\SizeGame\ShrinkingGame\obj\Debug\ShrinkingGame.exe
+C:\Users\Odddice\Documents\GitHubVisualStudio\SizeGame\ShrinkingGame\obj\Debug\ShrinkingGame.pdb

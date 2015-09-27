@@ -13,6 +13,10 @@ namespace ShrinkingGame
         {
             public static double player1Height;
             public static double player2Height;
+            public static double player3Height;
+            public static double player4Height;
+
+            public static int currentPlayer;
 
             public static string mainName;
             public static string otherName;
